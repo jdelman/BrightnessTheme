@@ -1,8 +1,5 @@
-BrightnessTheme
-===============
-
-Change your Sublime Text 3 theme based on the brightness of your Mac's monitor.
--------------------------------------------------------------------------------
+Installation
+------------
 
 First, download [brightness.c](http://dev.sabi.net/svn/dev/trunk/LocationDo/brightness.c).
 
